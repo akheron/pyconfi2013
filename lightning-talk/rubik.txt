@@ -1,0 +1,113 @@
+Rubik's Cube
+============
+
+.. footer:: Petri Lehtinen, PyCon Finland 2011
+
+.. image:: cube.png
+   :align: center
+
+Petri Lehtinen, PyCon Finland 2011
+
+History
+-------
+
+.. class:: incremental
+
+  Invented in 1974 by Erno Rubik
+
+  Became popular in 1980's
+
+  350,000,000 cubes sold (as of 2009)
+
+  Best selling toy worldwide
+
+
+Numbers
+-------
+
+.. class:: incremental
+
+  6 colors, 18 stickers
+
+  When all faces have the same color, it's solved
+
+  Actually composed of 20 pieces, center pieces fixed
+
+  43,252,003,274,489,856,000 combinations
+
+  That's 43 quintillion (10^16)
+
+  Enough to cover the world with 275 layers of cubes
+
+
+Variants
+--------
+
+There are other sizes too
+
+.. class:: incremental
+
+  .. image:: 2x2-3x3-4x4-5x5-rubiks-cube-side-full.jpg
+     :width: 500px
+
+  2x2, 3x3, 4x4, ..., 7x7
+
+
+Speedcubing
+-----------
+
+.. class:: incremental
+
+  Solve a scrambled cube as fast as possible
+
+  Current world records: 5.66 (single), 7.64 (average of 5)
+
+  Think about it for a while...
+
+  Yes, 5.66 seconds.
+
+
+Speedcubing variations
+----------------------
+
+.. class:: incremental
+
+  All the sizes: 2x2, 3x3, ..., 7x7
+
+  One handed
+
+  Blindfolded
+
+  Multi blind
+
+  With feet
+
+
+Yes, with feet
+--------------
+
+.. image:: x83152596779439478.jpg
+   :align: center
+
+
+Competitions
+------------
+
+Competitions in Finland: http://speedcubing.dy.fi/
+
+Around the world: http://www.worldcubeassociation.org/
+
+World championships every 2 years
+
+
+Thank you
+---------
+
+Ask me if you want to try it! :-)
+
+Btw, the God's number is 20.
+
+30 years of mathematical theory and 35 CPU-years of idle computer time
+donated by Google to solve this.
+
+Typical speedsolves use 40-50 moves.
