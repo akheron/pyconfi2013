@@ -1,12 +1,23 @@
-Rubik's Cube
-============
+.. footer:: Petri Lehtinen, PyCon Finland 2013
 
-.. footer:: Petri Lehtinen, PyCon Finland 2011
+About me
+--------
+
+.. class:: incremental
+
+  Petri Lehtinen / akheron
+
+  Open source guy, CPython core developer
+
+  CTO at Panic Marketing
+
+
+Rubik's cube
+------------
 
 .. image:: cube.png
    :align: center
 
-Petri Lehtinen, PyCon Finland 2011
 
 History
 -------
@@ -48,7 +59,7 @@ There are other sizes too
 .. class:: incremental
 
   .. image:: 2x2-3x3-4x4-5x5-rubiks-cube-side-full.jpg
-     :width: 500px
+     :width: 400px
 
   2x2, 3x3, 4x4, ..., 7x7
 
@@ -60,11 +71,11 @@ Speedcubing
 
   Solve a scrambled cube as fast as possible
 
-  Current world records: 5.66 (single), 7.64 (average of 5)
+  Current world records: 5.55 (single), 7.49 (average of 5 solves)
 
   Think about it for a while...
 
-  Yes, 5.66 seconds.
+  Yes, 5.55 seconds.
 
 
 Speedcubing variations
@@ -90,6 +101,19 @@ Yes, with feet
    :align: center
 
 
+God's number is 20
+------------------
+
+Every state of the cube can be solved in 20 moves or less.
+
+.. class:: small
+
+  It took 30 years of mathematical theory and 35 CPU-years of idle
+  computer time donated by Google to solve this.
+
+A typical speedsolve uses 40-50 moves.
+
+
 Competitions
 ------------
 
@@ -104,10 +128,3 @@ Thank you
 ---------
 
 Ask me if you want to try it! :-)
-
-Btw, the God's number is 20.
-
-30 years of mathematical theory and 35 CPU-years of idle computer time
-donated by Google to solve this.
-
-Typical speedsolves use 40-50 moves.
